@@ -1,2 +1,2 @@
 # Some-Notes-on-AI
-just 佛如
+Just for recording and checking.
